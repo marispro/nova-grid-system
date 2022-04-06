@@ -28,7 +28,7 @@ class NovaGridSystem extends Tool
         return;
     }
     
-    public function menu(){
+    public function menu(Request $request){
 
     }
 }
